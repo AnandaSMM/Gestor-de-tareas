@@ -164,6 +164,7 @@ Todo lo anterior, además de:
 .
 ├── core/
 ├── estilos/
+├── imagenes/
 ├── index.php
 ├── login.php
 ├── registro.php
