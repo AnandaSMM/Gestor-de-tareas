@@ -147,7 +147,7 @@ Todo lo anterior, además de:
 
 ## Modelo Entidad Relación
 
-![alt text](image.png)
+![alt text](imagenes/dbDiagram.png)
 
 # Tecnologías
 
